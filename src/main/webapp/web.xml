@@ -3,7 +3,7 @@
   <display-name>call-get-api-test</display-name>
   <welcome-file-list>
  
-    <welcome-file>haha.html</welcome-file>
+    <welcome-file>index.html</welcome-file>
 
   </welcome-file-list>
 </web-app>
